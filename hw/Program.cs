@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿byte a = 255;
+a++;
+Console.WriteLine(a);
